@@ -1,0 +1,16 @@
+[
+  {
+    "original_filename": "Numerical Simulation.mp4",
+    "asset_name": "Numerical.Simulation.mp4",
+    "size_bytes": 10742325,
+    "sha256": "fc2d98f8959d123e6f38cf50ef97325b3a9cbe46d344d31d972d1b0f422619d3",
+    "download_url": "https://github.com/Dimple-Ao/SLAFT/releases/download/videos-v1.0/Numerical.Simulation.mp4"
+  },
+  {
+    "original_filename": "XTDrone_SITL_Experiment.mp4",
+    "asset_name": "XTDrone_SITL_Experiment.mp4",
+    "size_bytes": 338442741,
+    "sha256": "63e9c84871def1b42082fda09d418758615c8f8728ad19b1d0b9a73a41fe709b",
+    "download_url": "https://github.com/Dimple-Ao/SLAFT/releases/download/videos-v1.0/XTDrone_SITL_Experiment.mp4"
+  }
+]
